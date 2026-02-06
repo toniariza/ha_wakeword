@@ -1,6 +1,7 @@
 {
   "type": "micro",
   "wake_word": "ok penny",
+  "trained_languages": ["en"],
   "author": "toniariza",
   "website": "https://github.com/toniariza",
   "model": "ok_penny.tflite",
@@ -13,4 +14,5 @@
     "minimum_esphome_version": "2024.7.0"
   }
 }
+
 
