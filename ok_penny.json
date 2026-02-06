@@ -1,5 +1,8 @@
 {
   "type": "micro",
+  "wake_word": "ok penny",
+  "author": "Tu Nombre",
+  "website": "https://github.com/toniariza/ha_wakeword",
   "model": "ok_penny.tflite",
   "version": 1,
   "micro": {
@@ -7,3 +10,4 @@
     "sliding_window_average_size": 10
   }
 }
+
