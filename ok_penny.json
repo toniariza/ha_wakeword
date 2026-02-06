@@ -5,7 +5,7 @@
   "website": "",
   "model": "https://github.com/toniariza/ha_wakeword/raw/main/ok_penny.tflite",
   "trained_languages": ["en"],
-  "version": 3,
+  "version": 1,
   "micro": {
     "probability_cutoff": 0.73,
     "feature_step_size": 10,
