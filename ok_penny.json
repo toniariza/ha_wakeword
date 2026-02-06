@@ -4,7 +4,7 @@
   "trained_languages": ["en"],
   "author": "toniariza",
   "website": "https://github.com/toniariza",
-  "model": "ok_penny.tflite",
+  "model": "https://github.com/toniariza/ha_wakeword/blob/main/ok_penny.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.5,
