@@ -3,9 +3,9 @@
   "wake_word": "Ok Penny",
   "author": "toniariza",
   "website": "",
-  "model": "https://github.com/toniariza/ha_wakeword/raw/main/ok_penny.tflite",
+  "model": "https://raw.githubusercontent.com/toniariza/ha_wakeword/refs/heads/main/ok_penny.tflite",
   "trained_languages": ["en"],
-  "version": 1,
+  "version": 2,
   "micro": {
     "probability_cutoff": 0.73,
     "feature_step_size": 10,
